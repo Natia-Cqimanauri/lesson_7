@@ -1,0 +1,225 @@
+.header-fixed {
+    width: 1220px; 
+    margin: 0 auto;
+   
+    margin-top: 53px;
+    margin-bottom: 136px;
+}
+
+.flex-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right-block {
+    display: flex;
+    align-items: center;
+} 
+.consulting-box{
+    width: 184px;
+    height: 65px;
+    background-color: #6B77E5;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ul-item{
+   display: flex;
+   width: 601px;
+   justify-content: space-between; 
+   font: size 18px;
+   font-family: inter ;}
+   .nav-li-aitem{ color: #37393F;
+   
+}
+.fa-chevron-down{
+
+    font-size: 8px;
+    margin-left: 10px;
+}
+
+.li-item-center{
+    display: flex;
+    align-items: center;
+}
+
+/* section01 styles*/
+.text-block{
+    width: 283px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.block{
+    width: 386px;
+    height:383px ;
+    background-color:  #F4F4F4;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+.block-parent{
+    width: 300px;
+    
+    text-align: center;
+}
+.text{
+    font-size: 18px;
+    font-family: inter;
+    color:  #37393F;
+    
+}
+.text-01{
+    font-size: 40px;
+    font-family: poppins;
+    color: #37393F;
+    margin-top:16px ;
+    margin-bottom: 41px;
+    
+}
+
+.text-02{
+    font-size: 25px;
+    font-family:poppins;
+    margin-top: 58px;
+    margin-bottom: 16px;
+    color:  #37393F;
+
+}  
+.text-03{
+ font-size: 18px;
+ color: #7D7D7D;
+ 
+
+}
+.text-04{
+    font-size: 18px;
+    margin-top:37px ;
+    margin-bottom: 10px;
+    color:  #6B77E5;
+    
+}
+.icon{
+    margin-bottom: 18px;
+}
+.section-blocks{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 41px;
+}
+/*section2*/
+.image-section{
+    width: 100%;
+}
+.image-text-block{
+    width: 511px;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;}
+
+.image-relative{
+    position: relative;
+    ;
+}
+.text-05{
+    font-size: 18px;
+    color:  #37393F;
+    margin-top: 43px;
+
+}
+.text-06{
+    font-size: 40px;
+    color: #37393F;
+    margin-top: 16px;
+    margin-bottom: 21px;
+    font-family: poppins;
+}
+.text-07{
+    font-size: 18px;
+    color: #37393F;
+    font-family: inter
+    ;
+}
+.play-box{
+    margin-top: 47px;
+    margin-bottom: 143.5px;
+}   
+/*sectiom3*/
+.text-block-team{
+    text-align: center;
+    width: 348px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.text-08{
+    font-size: 18px;
+    margin-top: 130px;
+}
+.text-09{
+    font-size: 40px;
+    margin-top: 16px;
+    margin-bottom: 31px;
+}
+
+.team-text-images{
+    width: 341px;
+    height: 114px;
+    background-color: #FFFFFF;
+    
+    
+   
+    position: absolute;
+    left: 22px;
+    bottom: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.team-wraper{
+    
+    width: 1220px;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+
+
+
+}
+.team-block{
+    width: 386px;
+    height: 532px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    
+   align-items: center;
+   text-align: center;
+
+}
+.text-11{
+    font-size: 25px;
+    margin-top: 24px;
+    margin-bottom: 4px;
+    font-family: poppins;
+} 
+.text-10{
+    font: size 18px; 
+    margin-bottom: 24px;
+}
+
+
+
+
+
+
